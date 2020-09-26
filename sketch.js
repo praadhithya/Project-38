@@ -21,7 +21,7 @@ function preload(){
   cloudImage = loadImage("images/cloud.png");
   
   tree1 = loadImage("images/tree1.png")
-  tree2 = loadImage("images/tree2.png")
+  tree2 = loadImage("images/Tree2.png")
   tree3 = loadImage("images/tree3.png")
 
   obstacle1 = loadImage("images/Obstacle1.png");
